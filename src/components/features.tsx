@@ -27,7 +27,7 @@ function Features() {
             {
               title: 'Recycled packaging',
               desc: 'We use 100% recycled packaging to ensure our footprint is manageable.',
-              src:'/spot.png',
+              src:'/Spot.png',
             },
 
 
